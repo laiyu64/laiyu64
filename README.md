@@ -36,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<你的用户名>" />
+  <img src="https://streak-stats.demolab.com?user=<laiyu64>" />
 </p>
 
 ## 🧰 My Skill Set
