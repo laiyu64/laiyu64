@@ -19,11 +19,8 @@
 
 ## 📫 Connect with me
 
-- GitHub：<你的 GitHub 地址>
-- Email：<你的邮箱>
-- CSDN：<你的 CSDN 地址>
-- Blog：<你的博客地址，没有可删>
-
+- GitHub：<https://github.com/laiyu64>
+- Email: <laiyu6@outlook.com>
 ---
 
 ## 📊 GitHub Stats
