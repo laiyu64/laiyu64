@@ -13,7 +13,7 @@
 - 热爱编程，正在系统学习后端开发相关知识
 - 目前重点提升方向：**C++工程能力 / Linux服务器开发 / 项目实战**
 - 正在深入理解：**TinyWebServer、HTTP请求处理、线程池、epoll、多路复用**
-- 平时也会进行算法训练，主要在 **洛谷 / Codeforces** 上刷题
+- 平时也会进行算法训练，主要在 **洛谷 / Codeforces/牛客** 上刷题
 
 ---
 
@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<你的用户名>&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<你的用户名>&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<laiyu64>&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<laiyu64>&layout=compact" />
 </p>
 
 ## 🔥 GitHub Streak
