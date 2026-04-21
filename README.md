@@ -26,14 +26,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<laiyu64>&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<laiyu64>&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laiyu64&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiyu64&layout=compact" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<laiyu64>" />
+  <img src="https://streak-stats.demolab.com?user=laiyu64" />
 </p>
 
 ## 🧰 My Skill Set
