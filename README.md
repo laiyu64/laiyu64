@@ -62,7 +62,6 @@
 | 项目名称 | 项目简介 |
 |---|---|
 | [TinyWebServer](<你的项目链接>) | 基于 C++ 实现的轻量级 WebServer，使用线程池、epoll、HTTP 请求解析、MySQL 连接池等技术，并进行了二次开发与功能优化 |
-| [LNMP + WordPress](<你的项目链接>) | 基于 Rocky Linux 搭建 LNMP 环境并部署 WordPress，完成 Nginx、MariaDB、PHP 的配置与联调 |
 | [Algorithm Practice](<你的项目链接>) | 洛谷、Codeforces 等平台算法训练代码仓库，涵盖搜索、图论、数据结构、动态规划等题型 |
 | [后续可补充项目](#) | 可继续增加一个 RPC / 聊天室 / 后端管理系统项目 |
 
