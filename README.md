@@ -67,7 +67,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<你的用户名>" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laiyu64" />
 </p>
 
 ---
